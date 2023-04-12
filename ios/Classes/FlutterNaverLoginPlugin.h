@@ -1,4 +1,5 @@
 #import <Flutter/Flutter.h>
+#import <NaverThirdPartyLogin/NaverThirdPartyLogin.h>
 
 @interface FlutterNaverLoginPlugin : NSObject<FlutterPlugin>
 {
